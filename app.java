@@ -1,3 +1,4 @@
-Welcome to TDBank
-Your financial partner
+Welcome to TDBank.
+Your financial partner.
+
 
